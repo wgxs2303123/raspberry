@@ -2,6 +2,8 @@ Linux kernel
 
 
 student c
+
+git clone https://github.com/wgxs2303123/raspberry.git
 ============
 
 There are several guides for kernel developers and users. These guides can
