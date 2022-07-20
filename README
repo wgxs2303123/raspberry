@@ -1,18 +1,14 @@
 Linux kernel
 
 
-<<<<<<< HEAD
-a: studenta say hello   my hello   mytest_1 say hello say second time  my test 1 say holle again studentb say hello studentb say hello again
-
-=======
 a: studenta say hello   my hello   mytest_1 say hello say second time  my test 1 say holle again studentb say hello  mytest_1 say hello 3 times  test_2 ask for 1
->>>>>>> cea70b5aa2a61b352c23bbba3bbf64a5c8eb71a5
 
 
 b: studentb say hello
 c: studentc say hello, first time to say hello
 d:
 e:
+test1: second round test merge 1
 
 
 
