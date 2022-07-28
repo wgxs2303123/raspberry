@@ -5,6 +5,9 @@ SUBLEVEL = 83
 EXTRAVERSION = 555 99
 NAME = Kleptomaniac Octopus
 
+test_1_2: step1
+
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
