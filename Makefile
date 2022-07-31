@@ -7,14 +7,12 @@ NAME = Kleptomaniac Octopus
 
 test_1_2: step1
 
-<<<<<<< HEAD
 pull test---------------------------------------------------------------------1
 
 
 
-=======
 test_1_1_1: step1---------------------------------------------------------------------1
->>>>>>> origin
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
